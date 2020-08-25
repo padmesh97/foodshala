@@ -1,4 +1,5 @@
-### Thank you for providing me this opportunity to showcase my skills. Here are some key points that are highlighted for short summary and better understanding of the flow of this food ordering web application "FOODSHALA" :
+##To run this please import "foodshala.sql" SQL file in your MySQL database.
+##Database connection settings can be configured in "credentials.php".
 
 1.) Declaration -
 
@@ -50,6 +51,6 @@
 	
 	# The web application has been designed with mobile first approach,the layout is responsive and looks cool on mobile screens.
 
-11.) A VERY THOROUGH ATTEMPT HAS BEEN TO COVER ALL DISCOVERABLE USE CASES AS PER MY KNOWLEDGE. GUIDANCE REGARDING ANY LEFTOVER CASE WILL BE HIGHLY APPRECIATED. 
+11.) A VERY THOROUGH ATTEMPT HAS BEEN TO COVER ALL DISCOVERABLE USE CASES AS PER MY KNOWLEDGE. REPORTING ANY LEFTOVER CASE WILL BE HIGHLY APPRECIATED. 
 
 **************************  THANKYOU ! *******************************************
