@@ -1,5 +1,5 @@
-##To run this please import "foodshala.sql" SQL file in your MySQL database.
-##Database connection settings can be configured in "credentials.php".
+> **To run this please import "foodshala.sql" SQL file in your MySQL database.<br>
+> Database connection settings can be configured in "credentials.php".**
 
 1.) Declaration -
 
